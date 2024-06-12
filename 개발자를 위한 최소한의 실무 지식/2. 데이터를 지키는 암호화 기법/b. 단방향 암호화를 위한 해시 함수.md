@@ -23,4 +23,4 @@
 > 솔트는 임의 길이의 고정된 난수이다.
 
 비밀번호 + 솔트 값 => 해시 함수
-![img.png](img.png)
+![img.png](assets/images/img.png)
